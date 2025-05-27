@@ -2,6 +2,7 @@ from dash import Dash, dcc, html, page_container
 import dash_bootstrap_components as dbc
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
+print('App Created')
 app.title = "Supply Chain Dashboard"
 
 navbar = dbc.NavbarSimple(
