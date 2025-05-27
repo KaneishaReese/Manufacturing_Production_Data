@@ -3,3 +3,4 @@ dash-bootstrap-components~=2.0.3
 pandas~=2.2.3
 numpy~=2.0.2
 plotly~=6.1.1
+gunicorn
