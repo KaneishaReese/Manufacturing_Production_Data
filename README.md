@@ -7,7 +7,7 @@ An interactive dashboard built with Dash (Plotly) to explore and analyze key met
 
 ## 🚀 Live Demo
 
-🌐 [View Live App on Render](https://your-app-name.onrender.com)
+🌐 [View Live App on Render](https://manufacturing-production-data.onrender.com/)
 
 ---
 
@@ -52,15 +52,3 @@ The dataset was cleaned and enriched for demonstration purposes.
 
 ---
 
-## 📂 File Structure
-
-├── index.py # Main Dash app with page_container
-├── pages/
-│ ├── home.py # Instructions and usage
-│ ├── sales.py # Sales dashboard
-│ ├── logistics.py # Logistics dashboard
-│ └── production.py # Production dashboard
-├── supply_chain_data_cleaned.csv
-├── requirements.txt
-├── Procfile
-└── README.md
